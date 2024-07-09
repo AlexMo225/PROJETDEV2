@@ -3,7 +3,7 @@
 ## Présentation 📋
 **Maracana SaaS** est une application de gestion d'abonnements, permettant aux utilisateurs de souscrire à différents plans d'abonnement, de gérer leurs réservations et de recevoir des notifications. L'application est construite avec une API Laravel pour le backend et Vue.js avec Ionic pour le frontend, offrant ainsi une interface utilisateur réactive et une gestion sécurisée des transactions via Stripe.
 
-![Maracana](https://via.placeholder.com/600x300) <!-- Remplacez ce lien par une véritable image de votre projet -->
+![Maracana]
 
 ## Fonctionnalités ✨
 
@@ -72,7 +72,7 @@ L'objectif de ce projet est de fournir une solution SaaS efficace pour la gestio
 #### Application Frontend :
 - L'application frontend Vue.js sera disponible à l'adresse `http://127.0.0.1:5173`
 
-![Frontend](https://via.placeholder.com/600x300) <!-- Remplacez ce lien par une véritable image de votre frontend -->
+![Frontend]
 
 ---
 
