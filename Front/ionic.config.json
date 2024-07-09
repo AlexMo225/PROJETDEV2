@@ -1,0 +1,7 @@
+{
+  "name": "contactapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
